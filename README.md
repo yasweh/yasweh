@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **my practical cybersecurity skills and digital products such as websites and mobile apps, as well as implementation of AI and AI automation.**
 
-- 🌱 I’m currently learning **website products, especially with the Next.js framework. I am also exploring the cybersecurity field and the legal aspects of information technology.**
+- 🌱 I’m currently learning **website products, especially with the Next.js framework. I am also exploring cybersecurity field and the legal aspects of information technology.**
 
 - 👯 I’m looking to collaborate on **Capture the Flag competitions, cybersecurity projects, and legal aspect studies of Information Technology, especially in Indonesia.**
 
