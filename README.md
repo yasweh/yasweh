@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 align="center">Howdy 👋, I'm Ayyas</h1>
-  <h3 align="center"> 🎓 An Information Systems Student at Universitas Indonesia</h3>
+  <h3 align="center"> 🎓 Information Systems Student at Universitas Indonesia</h3>
 </div>
 
 <p align="center">
